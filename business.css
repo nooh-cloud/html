@@ -183,3 +183,164 @@ h3{
     justify-content: space-between; 
     gap: 80px;
 }
+
+
+
+
+
+@media (max-width: 769px) {
+    .navbar{
+       display: block;
+    }
+
+    .navbar h2{
+        margin-left: 280px;
+    }
+
+    .arrow{
+        position: absolute;
+        left: 260px;
+    }
+
+
+    .imag1{
+        margin-left: 100px;
+    }
+
+    .large-button{
+        margin-left: 90px;
+    }
+
+    .nav-links{
+        display: flex;
+        text-align: center;
+        margin-left: 120px;
+    }
+
+    .imag{
+        width: 450px;
+        height: 450px;
+    }
+
+    .hero{
+        display: block;
+    }
+
+    .hero h1{
+        padding-left: 0;
+        margin-left: 150px;
+    }
+
+    .get {
+        margin-left: 150px;
+    }
+    .hero p{
+        margin-left: 150px;
+    }
+
+    .hero-content{
+        max-width: 400px;
+    }
+    .story{
+        padding: 20px;
+        margin: 20px;
+    }
+
+    .story-content{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+
+@media (max-width:320px) {
+
+        .navbar{
+            display: block;
+        }
+
+        .navbar h2{
+            margin-left: 100px;
+        }
+
+        .nav-links{
+            display: block;
+            text-align: center;
+            margin-left: 45px;
+        }
+
+        .arrow{
+            position: absolute;
+            left: 88px;
+        }
+    
+
+        .imag1{
+            width: 150px;
+            height: 150px;
+            margin-left: 40px;
+        }
+
+        .imag{
+            width: 150px;
+            height: 150px;
+            margin-right: 350px;
+        }
+
+        .fir{
+            text-align: center;
+            width: 250px;
+        }
+
+        .sec{
+            text-align: center;
+            width: 250px;
+        }
+
+
+        .hero h1{
+            margin-left: 20px;
+        }
+
+        .hero p{
+            margin-left: 10px;
+        }
+        
+
+        .get{
+            display: block;
+            margin-left: 2px;
+        }
+
+        .play{
+            margin-top: 8px;
+        }
+
+        .our{
+            max-width: 200px;
+            text-align: center;
+        }
+
+        .soon{
+            max-width: 180px;
+            text-align: center;
+        }
+
+        .row{
+            display: block;
+        }
+        .vision{
+            display: block;
+        }
+
+       .large{
+        width: 200px;
+        height: 140px;
+        margin-left: 1px;
+       }
+
+       .vroom{
+        margin-left: 10px;
+       }
+
+    }
