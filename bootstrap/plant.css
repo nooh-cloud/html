@@ -1,0 +1,689 @@
+.shop {
+  background-color: black;
+  color: white;
+  width: 127px;
+  height: 37.39px;
+  border-radius: 27.18px;
+  position: absolute;
+  top: 383.26px;
+  left: 29px;
+  padding-top: 10.19px;
+  padding-bottom: 10.19px;
+  padding-left: 19.71px;
+  padding-right: 19.71px;
+  gap: 13.59px;
+}
+
+.frame2 {
+  width: 536.55px;
+  height: 246.98px;
+  position: absolute;
+  top: 423.38px;
+}
+
+.beati {
+  width: 290px;
+  height: 61px;
+  position: absolute;
+  top: 41.16px;
+  left: 35.49px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28.8px;
+}
+
+.press {
+  width: 254px;
+  height: 19px;
+  position: absolute;
+  top: 123.62px;
+  left: 35.49px;
+  font-weight: 250;
+  font-size: 16px;
+  line-height: 19.2px;
+}
+
+.bloom {
+  width: 135px;
+  height: 31px;
+  position: absolute;
+  top: 173.88px;
+  left: 35.49px;
+  opacity: 0.5;
+  font-weight: 900;
+  font-size: 25.55px;
+  line-height: 30.66px;
+}
+
+.forbes {
+  width: 81px;
+  height: 33px;
+  position: absolute;
+  top: 173.88px;
+  left: 234.21px;
+  opacity: 0.5;
+  font-weight: 700;
+  font-size: 25.55px;
+  line-height: 32.7px;
+}
+
+.vari {
+  width: 415px;
+  height: 156px;
+  position: absolute;
+  top: 124.2px;
+  left: 26.26px;
+  font-weight: 400;
+  font-size: 68.13px;
+  line-height: 78.49px;
+}
+
+.imgplant {
+  position: absolute;
+  top: 63.17px;
+  left: 325px;
+}
+
+.each {
+  width: 302px;
+  height: 56px;
+  position: absolute;
+  top: 668.56px;
+  left: 35.49px;
+  font-weight: 250;
+  font-size: 14px;
+  line-height: 16.8px;
+}
+
+.learn {
+  width: 444px;
+  height: 104px;
+  position: absolute;
+  top: 668.56px;
+  left: 390.35px;
+  font-weight: 500;
+  font-size: 25.55px;
+  line-height: 32.7px;
+}
+
+.more {
+  width: 86px;
+  height: 17px;
+  position: absolute;
+  top: 818.31px;
+  left: 390.35px;
+  font-weight: 400;
+  font-size: 14.19px;
+  line-height: 17.03px;
+}
+
+.icon1 {
+  position: absolute;
+  top: 816.18px;
+  left: 500.35px;
+}
+
+.mud {
+  width: 1151.03px;
+  height: 455.96px;
+  position: absolute;
+  top: 916.06px;
+  left: 110.49px;
+  z-index: 100;
+}
+
+.zdiv {
+  width: 1348px;
+  height: 309.44px;
+  position: absolute;
+  top: 1154.01px;
+  left: 0;
+  background-color: #ededed;
+  z-index: 99;
+}
+
+.step {
+  width: 49px;
+  height: 17px;
+  position: absolute;
+  top: 249.11px;
+  left: 110.2px;
+  font-weight: 500;
+  font-size: 14.19px;
+  line-height: 17.03px;
+}
+
+.text {
+  width: 432px;
+  height: 33px;
+  position: absolute;
+  top: 241.31px;
+  left: 544.93px;
+  font-weight: 500;
+  font-size: 25.55px;
+  line-height: 32.7px;
+}
+
+.arrow {
+  position: absolute;
+  top: 239.89px;
+  left: 1183.22px;
+}
+
+.arrow1 {
+  position: absolute;
+  top: 239.89px;
+  left: 1230.32px;
+}
+
+.see {
+  width: 95.1px;
+  height: 28.27px;
+  border-radius: 20.35px;
+  background-color: black;
+  color: #ededed;
+  position: absolute;
+  top: 1717.63px;
+  left: 36.2px;
+}
+
+.plantc1 {
+  width: 261.18px;
+  height: 409.51px;
+  position: absolute;
+  top: 1768.63px;
+  left: 35.49px;
+}
+
+.fiddle {
+  width: 87px;
+  height: 17px;
+  position: absolute;
+  top: 2190.91px;
+  left: 35.49px;
+  font-weight: 400;
+  font-size: 14.19px;
+}
+
+.price1 {
+  width: 46px;
+  height: 17px;
+  position: absolute;
+  top: 2190.91px;
+  left: 250.53px;
+  font-weight: 400;
+  font-size: 14.19px;
+  text-align: right;
+}
+
+.plantc2 {
+  width: 261.18px;
+  height: 409.51px;
+  position: absolute;
+  top: 1768.63px;
+  left: 327.89px;
+}
+
+.aloe {
+  width: 79px;
+  height: 17px;
+  position: absolute;
+  top: 2190.91px;
+  left: 327.89px;
+  font-weight: 400;
+  font-size: 14.19px;
+}
+
+.price2 {
+  width: 46px;
+  height: 17px;
+  position: absolute;
+  top: 2190.91px;
+  left: 542.94px;
+  font-weight: 400;
+  font-size: 14.19px;
+}
+
+.plantc3 {
+  width: 261.18px;
+  height: 409.51px;
+  position: absolute;
+  top: 1768.63px;
+  left: 620.3px;
+}
+
+.nicolai {
+  width: 106px;
+  height: 17px;
+  position: absolute;
+  top: 2190.91px;
+  left: 620.3px;
+  font-weight: 400;
+  font-size: 14.19px;
+}
+
+.price3 {
+  width: 46px;
+  height: 17px;
+  position: absolute;
+  top: 2190.91px;
+  left: 835.34px;
+  font-weight: 400;
+  font-size: 14.19px;
+}
+
+.plantc4 {
+  width: 255.5px;
+  height: 409.51px;
+  position: absolute;
+  top: 1768.63px;
+  left: 912.7px;
+}
+
+.ficus {
+  width: 139px;
+  height: 17px;
+  position: absolute;
+  top: 2189.49px;
+  left: 912.7px;
+  font-weight: 400;
+  font-size: 14.19px;
+}
+
+.price4 {
+  width: 46px;
+  height: 17px;
+  position: absolute;
+  top: 2190.91px;
+  left: 1114.34px;
+  font-weight: 400;
+  font-size: 14.19px;
+}
+
+.conntainer {
+  position: absolute;
+  top: 90.91px;
+  left: 90px;
+  padding: 30px;
+}
+
+.rev {
+  width: 97px;
+  height: 24px;
+  position: absolute;
+  top: 2292px;
+  
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.revi {
+  width: 302px;
+  height: 86px;
+  position: absolute;
+  top: 2342px;
+  font-weight: 250;
+  font-size: 16px;
+}
+
+.star {
+  width: 149px;
+  height: 25px;
+  position: absolute;
+  top: 2442px;
+}
+
+.out {
+  width: 25px;
+  height: 19px;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.values {
+    width: 89px;
+    height: 16px;
+    position: absolute;
+    top: 2482px;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+
+.sec{
+    position:relative;
+    
+}
+
+.para{
+    width: 676px;
+    height: 292px;
+    position: absolute;
+    top: 2375px;
+    left: 495px;
+}
+
+.adore{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 46.08px;
+}
+
+.extra{
+    position: absolute;
+    top: 2360px;
+    left: 1200.71px;
+}
+
+
+.pamela{
+    width: 117px;
+    height: 31px;
+    position: absolute;
+    top: 2766px;
+    left: 495px;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.lake{
+    width: 108px;
+    height: 19px;
+    position: absolute;
+    top: 2808px;
+    left: 495px;
+    font-weight: 250;
+    font-size: 16px;
+}
+
+.shelf{
+    width: 500px;
+    height: 774px;
+}
+
+.layout2{
+    position: absolute;
+    top: 2887px;
+    left: 50px;
+}
+
+.blooom{
+    width: 720px;
+    height: 774px;
+  
+}
+
+.layout3{
+    position: absolute;
+    top: 2887px;
+    left: 610px;
+}
+
+.pluc{
+    width: 1280px;
+    height: 746px;
+    padding: 20px;
+}
+
+.layout4{
+    position: absolute;
+    top: 3695px;
+    left: 51px;
+}
+
+
+.stay{
+    width: 706px;
+    height: 126px;
+    position: absolute;
+    top: 4450px;
+    left: 50px;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 61.44px;
+}
+
+
+.subscribe-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    position: absolute;
+    top: 4500px;
+    left: 920px;
+}
+
+.subscribe-container input[type="email"] {
+    border: none;
+    border-bottom: 2px solid black;
+    border-radius: 0;
+    outline: none;
+    box-shadow: none;
+}
+
+.subscribe-container input[type="email"]::placeholder {
+    color: black;
+    font-style: italic;
+}
+
+.subscribe-btn {
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    border: none;
+}
+
+.subscribe-container input:focus {
+    border-bottom: 2px solid black;
+    outline: none;
+}
+
+
+
+.footer {
+    background-color: #f4f4f4;
+    padding: 20px 0;
+    font-size: 14px;
+    color: #333;
+    position: absolute;
+    top: 4700px;
+    left: 0px;
+    width: 1350px;
+    height: 100px;
+    text-align: center;
+}
+
+.footer .footer-logo {
+    display: flex;
+    align-items: center;
+}
+
+.footer .footer-logo img {
+    height: 30px;
+    margin-right: 10px;
+}
+
+.footer .footer-nav {
+    display: flex;
+    gap: 20px;
+}
+
+.footer .footer-nav a {
+    text-decoration: none;
+    color: #333;
+}
+
+.footer .footer-nav a:hover {
+    text-decoration: underline;
+}
+
+.footer .footer-social {
+    display: flex;
+    gap: 15px;
+}
+
+.footer .footer-social i {
+    font-size: 18px;
+}
+
+
+
+@media (max-width:375px) {
+    
+    .vari{
+        width: 266px;
+        height: 56px;
+        left: -25px;
+        font-size: 24px;
+        line-height: 27px;
+        
+    }
+
+    .imgplant {
+        position: absolute;
+        top: 81.17px;
+        left: 25px;
+        width: 350px;
+        height: 200px;
+    }
+
+    .beati {
+        width: 207px;
+        position: absolute;
+        top: -230.84px;
+        left: -2.51px;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 18.8px;
+    }
+
+    .press {
+        width: 143px;
+        height: 11px;
+        position: absolute;
+        top: -185.38px;
+        left: -0.51px;
+        font-weight: 250;
+        font-size: 9px;
+        line-height: 10.2px;
+    }
+
+    .shop{
+        top: 256.26px;;
+    }
+
+    .bloom{
+        font-size: 17.55px;
+        left: -2.51px;
+        top: -123.12px;
+    }
+
+    .forbes{
+        font-size: 17.55px;
+        left: 127.49px;
+        top: -123.12px;
+    }
+
+    .each{
+        top: 358.56px;
+    }
+
+    .learn {
+        width: 368px;
+        height: 94px;
+        position: absolute;
+        top: 418.56px;
+        left: 8.35px;
+        font-weight: 500;
+        font-size: 22.55px;
+        line-height: 30.7px;
+    }
+
+
+    .more {
+        width: 159px;
+        height: 22px;
+        position: absolute;
+        top: 585.31px;
+        left: 65.35px;
+        font-weight: 400;
+        font-size: 29.19px;
+        line-height: 17.03px;
+    }
+
+    .icon1 {
+        position: absolute;
+        top: 581.18px;
+        left: 245.35px;
+    }
+
+    .mud {
+        width: 343.03px;
+        height: 298.96px;
+        position: absolute;
+        top: 653.06px;
+        left: 17.49px;
+        z-index: 100;
+    }
+
+    .zdiv {
+        width: 375px;
+        height: 171px;
+        position: absolute;
+        top: 825.01px;
+        left: 0;
+        background-color: #ededed;
+        z-index: 99;
+    }
+
+
+    .step {
+        width: 32px;
+        height: 17px;
+        position: absolute;
+        top: 147.11px;
+        left: 19.2px;
+        font-weight: 500;
+        font-size: 10.19px;
+        line-height: 17.03px;
+    }
+
+
+    .text {
+        width: 432px;
+        height: 33px;
+        position: absolute;
+        top: 127.31px;
+        left: 66.93px;
+        font-weight: 500;
+        font-size: 18.55px;
+        line-height: 32.7px;
+    }
+
+
+    .arrow{
+        position: absolute;
+    top: 130.89px;
+    left: 314.22px;
+    width: 15px;
+}
+    .arrow1{
+        position: absolute;
+    top: 130.89px;
+    left: 351.22px;
+    width: 15px;
+    }
+
+    .see {
+        width: 95.1px;
+        height: 28.27px;
+        border-radius: 20.35px;
+        background-color: black;
+        color: #ededed;
+        position: absolute;
+        top: 1039.63px;
+        left: 131.2px;
+    }
+}
